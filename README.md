@@ -40,6 +40,7 @@ So we're ready to start the conversation!
 **Step 8:** The client side of terminal is asking from input. Type whatever you feel like. We here start the conversation by typing "Hey" and it's visible in the Server side. Next type a message in the server side and it will be visible in the client side and the process goes on.
 
 **Step 9:** If you feel like exiting the chat simply type "exit" on either of the sides and the chat will end with a message " Connection terminated" or " Session Terminated"
+(The UDP implementation can also be carried out using the similar steps - just replace the file names accordingly)
 
 # Important Logic Used
 
